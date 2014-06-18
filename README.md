@@ -1,0 +1,1 @@
+Following up on some comments from the Python Bootcamp at THATCamp Digital Pedagogy, this is a script that iterates over the archive pages of the White House Speeches and Remarks site, collecting links to all the posted speeches in all the pages of the monthly archives.  In this case, the links aren't followed or retrieved, just printed. Example output is in speech_links.txt
